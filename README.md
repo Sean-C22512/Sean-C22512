@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Sean%20Cleary&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=25" />
 
 ### 🚀 Building the Future of Cloud Infrastructure
-**CS Infrastructure Student** at [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computer-science-infrastructure-tu857/) | **Former SWE Intern** at [Workhuman](https://www.workhuman.com/) | **AWS Certified** ☁️
+**CS Infrastructure Student** [@Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computer-science-infrastructure-tu857/) | **Former SWE Intern** at [@Workhuman](https://www.workhuman.com/) | **AWS Certified** ☁️
 
 <table>
 <tr>
