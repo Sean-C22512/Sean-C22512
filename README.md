@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Sean%20Cleary&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=25" />
 
 ### 🚀 Building the Future of Cloud Infrastructure
-**CS Infrastructure Student** [@Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computer-science-infrastructure-tu857/) | **Former SWE Intern** at [@Workhuman](https://www.workhuman.com/) | **AWS Certified** ☁️
+**CS Infrastructure Student** at [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computer-science-infrastructure-tu857/) | **Former SWE Intern** at [Workhuman](https://www.workhuman.com/) | **AWS Certified** ☁️
 
 <table>
 <tr>
@@ -37,41 +37,26 @@ class Developer:
 
 <br>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ☁️ **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 💻 **Programming Languages**
+### 💻 **Development**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Shell Script](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🌐 **Web Technologies**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
-
-### 🗄️ **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### 🔬 **Testing & Analytics**
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+### 🔧 **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-### 🤖 **AI & Machine Learning**
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00A4EF?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
@@ -81,8 +66,12 @@ class Developer:
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Sean-C22512&repo=your-best-repo&theme=react)](https://github.com/Sean-C22512/your-best-repo)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Sean-C22512&repo=another-repo&theme=react)](https://github.com/Sean-C22512/another-repo)
+<a href="https://github.com/Sean-C22512/ai-code-reviewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sean-C22512&repo=ai-code-reviewer&theme=tokyonight" />
+</a>
+<a href="https://github.com/Sean-C22512/Workhuman_Technical_Challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sean-C22512&repo=Workhuman_Technical_Challenge&theme=tokyonight" />
+</a>
 
 </div>
 
@@ -91,15 +80,15 @@ class Developer:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sean-C22512&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-C22512&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sean-C22512&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-C22512&layout=compact&theme=tokyonight"/>
 </div>
 
 <br>
 
 <div align="center">
   
-![snake gif](https://raw.githubusercontent.com/Sean-C22512/Sean-C22512/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Sean-C22512/Sean-C22512/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
