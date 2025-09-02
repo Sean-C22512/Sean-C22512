@@ -26,7 +26,7 @@
 class Developer:
     def __init__(self):
         self.name = "Sean"
-        self.role = "Cloud Infrastructure Enthusiast"
+        self.role = "Aspiring Software Engineer"
         self.location = "Dublin, Ireland 🇮🇪"
         self.current_focus = ["AWS Cloud Solutions", "Infrastructure Automation", "Full-Stack Development"]
         self.learning = "Advanced Cloud Architecture Patterns"
